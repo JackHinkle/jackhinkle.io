@@ -3,10 +3,11 @@ body {
 	background: #f2f2f7;
 	font-family: 'Inter', sans-serif;
 	font-weight: 300;
+	font-size: 16px;
 }
 
 .container {
-	width: 95%;
+	padding-right: 12px;
 	margin: 0;
 }
 
@@ -35,4 +36,9 @@ nav li {
 	margin-left: 12px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+}
+
+nav a {
+	color: #8E8E93;
+	font-weight: 500;
 }
