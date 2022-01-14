@@ -7,3 +7,4 @@ This entire project means I need to learn HTML, CSS, and Git. Because a signific
 - charliechao.com
 - highcaffeinecontent.com
 - skribbl.io
+- 512pixels.net
