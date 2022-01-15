@@ -7,4 +7,5 @@ Here's a list of the sites that gave me inspiration and code examples:
 - highcaffeinecontent.com
 - skribbl.io
 - 512pixels.net
+
 Disclaimer: I did not directly copy code from any of these sites.
