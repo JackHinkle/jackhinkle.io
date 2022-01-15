@@ -1,10 +1,11 @@
 # jackhinkle.io
 Source code of my website.
 
-This entire project means I need to learn HTML, CSS, and Git. Because a significant portion of the web is open, I'll add a list of inspirations, examples, and thanks below:
-
+Here's a list of sites that gave me inspiration and code examples:
 - apple.com/developer
 - charliechao.com
 - highcaffeinecontent.com
 - skribbl.io
 - 512pixels.net
+
+Disclaimer: I did not directly copy code from any of these sites.
