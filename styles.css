@@ -1,1 +1,39 @@
+body {
+	background-color: var(--body-background-color);
+	color: var(--body-color);
+	font-family: "Inter", Arial, sans-serif;
+}
 
+a:link, a:visited {
+	text-decoration: none;
+	color:var(--link-color);
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color:var(--active-link-color);
+}
+
+/* ^ Sets colors to be variables, which are defined below and are toggled by whichever method is used to enable automatic light/dark switching. */
+
+:root {
+	--body-background-color: #fff;
+	--body-color: #000;
+	--link-color: #0066cc;
+	--active-link-color: #0052a3;
+}
+/* ^Essentially the equivalent of what WOULD be site-theme="light" */
+
+[site-theme="dark"] {
+	--body-background-color: #1e1e20;
+	--body-color: #fff;
+	--link-color: #2997ff;
+	--active-link-color: #2179cc;
+}
+
+[site-theme="dark-mobile"] {
+	--body-background-color: #000;
+	--body-color: #fff;
+	--link-color: #2997ff;
+	--active-link-color: #2179cc;
+}
