@@ -7,6 +7,8 @@ Here's a list of the sites that gave me inspiration and code examples:
 - https://www.highcaffeinecontent.com
 - https://skribbl.io
 - https://512pixels.net
+- https://getnoir.app
+- https://samhenri.gold
 
 Disclaimer: I did not directly copy code from any of these sites.
 
