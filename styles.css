@@ -9,11 +9,16 @@ a:link, a:visited {
 
 a:hover, a:active {
 	text-decoration: underline;
-	color:var(--active-link-color);
 }
 
 :root {
 	color-scheme: light dark;
-	--link-color: #0066cc;
-	--active-link-color: #0052a3;
+}
+
+@media (prefers-color-scheme: light) {
+  body { --link-color: #0066cc; }
+}
+
+@media (prefers-color-scheme: dark) {
+  body { --link-color: #2997ff; }
 }
